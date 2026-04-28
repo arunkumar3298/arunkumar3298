@@ -1,16 +1,14 @@
-## Hi there 👋
+# Arun Kumar
 
-<!--
-**arunkumar3298/arunkumar3298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on distributed systems and real-time applications.
+Building production-grade backends with Java, Spring Boot, and event-driven architecture.
 
-Here are some ideas to get you started:
+## What I'm building
+- **Real-time chat app** — Spring Boot · Cassandra · MongoDB · Redis · RabbitMQ · Twilio SMS · AWS S3 · EC2
+- **E-Commerce REST API** — Spring Boot · MySQL · Redis · RabbitMQ · Docker Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Java · Spring Boot · MySQL · MongoDB · Cassandra · Redis · RabbitMQ · AWS S3 · Docker · JWT
+
+## Contact
+connectwitharun.dev@outlook.com
